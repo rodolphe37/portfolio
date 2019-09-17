@@ -1,4 +1,24 @@
-*{
-margin : 0;
-padding:0;
+* {
+  margin: 0;
+  padding: 0;
 }
+/* Slide Eleves */
+.eleve1 img {
+    float: left;
+    margin-left: 50%;
+    padding-right: 30px;
+    }
+.eleve2 img {
+      float: left;
+      margin-left: -2px;
+      padding-right: 20px;
+    }
+.eleve1 p{
+     display: flex;
+     font-size: 25px;
+     margin: 20px;
+   }
+.eleve2 p{
+     display: flex;
+     font-size: 25px;
+   }
